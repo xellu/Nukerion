@@ -1,0 +1,6 @@
+discord
+pystyle
+colorama
+threading
+requests
+random
