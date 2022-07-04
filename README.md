@@ -1,2 +1,2 @@
 # Nukerion
-basic account nuker for discord
+## Use it at your own risk
